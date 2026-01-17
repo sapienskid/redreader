@@ -1,0 +1,5 @@
+{
+  "name": "RedReader",
+  "description": "A minimalist, high-performance speed reading application featuring a RSVP (Rapid Serial Visual Presentation) engine with a high-contrast black and red aesthetic. Users can paste text directly to speed read with AI-powered simplification and summarization tools.",
+  "requestFramePermissions": []
+}
